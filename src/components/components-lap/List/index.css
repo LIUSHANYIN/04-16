@@ -1,0 +1,30 @@
+.List{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    justify-content: center;
+    align-items: flex-start;
+    color: white;
+    padding-left: 60px;
+    margin-bottom: 40px;
+    
+}
+.List h2{
+    font-family: HelveticaNeue;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    padding-bottom: 20px;
+}
+.list{
+    display: flex;
+    overflow-x: scroll;
+    width: 1380px;
+    
+
+}
+.List section img{
+    width: 204px;
+    height: 124px;
+    padding-right: 20px;
+}

@@ -1,0 +1,38 @@
+.mid{
+    background-image: url('./bg-poland@2x.png');
+    width: 1440px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 40px;
+}
+.des{
+    margin-left: 60px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.v-list{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 1440px;
+    overflow-x: scroll;
+    
+}
+.v-list a{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-decoration: none;
+}
+.v-list a p{
+    margin-left: 60px;
+    color: white;
+    font-family: HelveticaNeue;
+    font-size: 20px;
+    line-height: 23px;
+    margin-bottom: 30px;
+
+}
+
+

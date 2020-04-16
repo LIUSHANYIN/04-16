@@ -1,0 +1,11 @@
+.navbar{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 10px;
+    
+}
+.navbar a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

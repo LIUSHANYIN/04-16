@@ -1,0 +1,14 @@
+
+.LOGO{
+    display: flex;
+    margin-top: 15px;
+    
+}
+.net{
+    padding-left: 150px;
+    width: 81px;
+    height: 22px;
+}
+.Wifi{
+    padding-left: 130px;
+}

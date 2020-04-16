@@ -1,0 +1,22 @@
+.TopIcon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 425px;
+}
+.S1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.wifi{
+    padding-left: 60px;
+}
+.blue{
+    padding-left: 60px;
+    padding-right: 5px;
+}
+.mobil{
+    padding-left: 5px;
+}
